@@ -23,3 +23,9 @@
 
 - Start Server `python app.py`
 
+### Adding trained models
+
+- Save trained models in ".h5" extension (ex: "cnn.h5")
+- Create a folder named "models" inside project root directory
+- Add the models to this folder 
+
