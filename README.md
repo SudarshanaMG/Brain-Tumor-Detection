@@ -5,9 +5,9 @@
 - `git clone https://github.com/SudarshanaMG/Brain-Tumor-Detection`
 
 - Create Virtual Environment 
-    `pip install virtualenv`
-    `virtualenv .venv` 
-    or  
+    - `pip install virtualenv`
+    - `virtualenv .venv` 
+    - or  
     - for Linux : `python3 -m venv .venv`
     - for windows : `py -m venv .venv`
 
